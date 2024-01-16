@@ -8,7 +8,7 @@ Notable documentation projects:
 * The Systems Manager guide is one of the oldest AWS user guides. Systems Manager used to be a feature of EC2 before it was spun off into its own service. This meant that there was a lot of outdated language in the guide. I reviewed the entire user guide (almost 3,000 pages) to ensure that the documentation was accessible and met our style guide standards.
 * Reconfigured the Parameter Store and State Manager sections. When I audited these sections, I found that there were multiple duplicate sections and missing information. I condensed these sections and made them adhere to the same standards as the rest of the documentation.
 
-## Nimble Studio Classic (Sep 2021 - Sep 2023)
+## Amazon Nimble Studio Classic (Sep 2021 - Sep 2023)
 I inherited this guide from the original documentation writer when I transferred into the Creative Tools team. These docs were originally written in AsciiDoc, but I converted the docs into XML.
 
 Notable documentation projects:
@@ -19,7 +19,7 @@ Notable documentation projects:
 
 The images in this file are low quality because I had to compress the file to upload it to GitHub.
 
-## File Transfer (April 2022 - Sep 2023)
+## Amazon Nimble Studio File Transfer (April 2022 - Sep 2023)
 I was the original writer for these documents. These documents were written in XML.
 
 Notable documentation projects:
