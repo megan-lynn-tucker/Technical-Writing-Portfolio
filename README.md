@@ -17,8 +17,6 @@ Notable documentation projects:
 * Oversaw the manual translation of the documents to Japanese. A large portion of our customer spoke Japanese and noted how awful the Japanese docs were, so I requested that we manually translate the documents to Japanese.
 * Transitioned the documents to the current "Classic Guide". In 2023, the Creative Tools team decided to launch a new version of Nimble Studio. However, we still had customers using what we dubbed "Classic Nimble Studio". I investigated how customers could create similar infrastructure to Nimble Studio, and documented the processes. I also merged the artist guide back into the User Guide.
 
-The images in this file are low quality because I had to compress the file to upload it to GitHub.
-
 ## Amazon Nimble Studio File Transfer (April 2022 - Sep 2023)
 I was the original writer for these documents. These documents were written in XML.
 
