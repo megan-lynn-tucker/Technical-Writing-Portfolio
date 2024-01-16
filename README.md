@@ -2,7 +2,7 @@
 These documents are a sampling of my technical writing projects.
 
 ## Amazon Systems Manager (July 2020 - Sep 2021)
-The Amazon Systems Manager team consisted of four writers, including myself. I was assigned to the capabilities: Fleet Manager, Run Command, Parameter Store, and State Manager. These documents were written in XML.
+The Amazon Systems Manager team consisted of four writers, including myself. I was assigned to the capabilities: **Fleet Manager**, **Run Command**, **Parameter Store**, and **State Manager**. These documents were written in XML.
 
 Notable documentation projects:
 * The Systems Manager guide is one of the oldest AWS user guides. Systems Manager used to be a feature of EC2 before it was spun off into its own service. This meant that there was a lot of outdated language in the guide. I reviewed the entire user guide (almost 3,000 pages) to ensure that the documentation was accessible and met our style guide standards.
