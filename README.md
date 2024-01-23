@@ -21,4 +21,4 @@ Notable documentation projects:
 I was the original writer for these documents. These documents were written in XML.
 
 Notable documentation projects:
-* Wrote the File Transfer guide from scratch. This involved requesting a new package, updating the landing page, requesting translations, and creating new entities for the guide.
+* Wrote the File Transfer guide from scratch. This involved requesting a new package, updating the landing page, requesting translations, and creating new entities for the guide. This user guide includes the installation guide, user manual, and release notes.
