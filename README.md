@@ -2,7 +2,9 @@
 These documents are a sampling of my technical writing projects.
 
 ## Stealth AXiS Program (May 2023 - April 2026)
-The Stealth AXiS Program consisted of many workstreams; I led the following documentation efforts: Cranial clinical applications - **Cranial Optical & EM**, **Cranial DBS**, **ENT**, and **Tractography**; Segmental Tracking tools - **EM Segment Trackers**, **EM Segment Tracker Driver**, **Hybrid Reference Frame**, **EM Spine Reference Frame Tracker**, and **Spine Referencing Devices**; microscope guides - **Zeiss Kenivo**, **Zeiss Pentero**, and **Leica**. These documents were written using structured XML in Adobe FrameMaker.
+The Stealth AXiS Program consisted of many workstreams; I led the following documentation efforts: 
+* Cranial clinical applications
+  * **Cranial Optical & EM**, **Cranial DBS**, **ENT**, and **Tractography**; Segmental Tracking tools - **EM Segment Trackers**, **EM Segment Tracker Driver**, **Hybrid Reference Frame**, **EM Spine Reference Frame Tracker**, and **Spine Referencing Devices**; microscope guides - **Zeiss Kenivo**, **Zeiss Pentero**, and **Leica**. These documents were written using structured XML in Adobe FrameMaker.
 
 ## Amazon Systems Manager (July 2020 - September 2021)
 The Amazon Systems Manager team consisted of four writers, including myself. I was assigned to the capabilities: **Fleet Manager**, **Run Command**, **Parameter Store**, and **State Manager**. These documents were written in XML.
