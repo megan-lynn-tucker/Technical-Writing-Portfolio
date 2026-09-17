@@ -9,15 +9,15 @@ The Stealth AXiS Program consisted of many workstreams. I led the following docu
   * **ENT clinical application**
   * **Tractography clinical application**
 * Segmental Tracking tools
-  * **EM Segment Trackers**
-  * **EM Segment Tracker Driver**
-  * **Hybrid Reference Frame**
-  * **EM Spine Reference Frame Tracker**
-  * **Spine Referencing Devices**
+  * **EM Segment Tracker Package Insert**
+  * **EM Segment Tracker Driver Package Insert**
+  * **Hybrid Reference Frame Package Insert**
+  * **EM Spine Reference Frame Tracker Package Insert**
+  * **Spine Referencing Devices Package Insert**
 * Microscope guides
-  * **Zeiss Kenivo**
-  * **Zeiss Pentero**
-  * **Leica**
+  * **Zeiss Kenivo Quick Reference Guide**
+  * **Zeiss Pentero Quick Reference Guide**
+  * **Leica Quick Reference Guide**
 
 These documents were written using structured XML in Adobe FrameMaker.
 
